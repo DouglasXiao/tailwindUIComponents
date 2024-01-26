@@ -28,4 +28,7 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# tailwindUIComponents for more: https://juejin.cn/post/7320525947249803283
+
+- tailwindUIComponents for more: https://juejin.cn/post/7320525947249803283
+- To add a new component please use this command for example: npx shadcn-ui@latest add button
+- Full list of components: https://ui.shadcn.com/docs/components/accordion
